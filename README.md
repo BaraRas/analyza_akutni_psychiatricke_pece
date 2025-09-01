@@ -29,7 +29,6 @@ Projekt je určen pro studenty, výzkumníky i odbornou veřejnost, kteří se z
 
 ## 📷 Ukázky dashboardu
 
-```markdown
 ![Vývoj v čase](vyvojv_case.png)  
 ![Regiony v ČR](regiony_v_cr.png)  
 ![Diagnózy](diagnozy.png)  
