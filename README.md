@@ -29,6 +29,12 @@ Projekt je určen pro studenty, výzkumníky i odbornou veřejnost, kteří se z
 
 ## 📷 Ukázky dashboardu
 
-![Vývoj v čase](vyvojv_case.png)  
-![Regiony v ČR](regiony_v_cr.png)  
-![Diagnózy](diagnozy.png)  
+### Vývoj v čase
+![Vývoj v čase](vyvojv_case.png)
+
+### Počet hospitalizací dle kraje
+![Počet hospitalizací dle kraje](regiony_v_cr.png)
+
+### Diagnózy dle věkových skupin
+![Diagnózy dle věkových skupin](diagnozy.png)
+
